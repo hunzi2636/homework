@@ -1,0 +1,22 @@
+.box1{
+text-align: center;
+    font-size: 30px;
+}
+.box2{
+    text-align: center;
+    font-size: 30px;
+}
+div
+ {
+     width:100%;
+     height:1000px;
+     animation:myfirst 10s;
+ }
+
+@keyframes myfirst
+{
+    from {color: cornsilk;}
+    to {color: blue}
+    from {background:blueviolet;}
+    to {background:#B7FF4A;}
+}
